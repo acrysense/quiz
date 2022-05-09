@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quiz/static/css/main.77c02cf2.css",
+    "main.css": "/quiz/static/css/main.e9fd87ad.css",
     "main.js": "/quiz/static/js/main.fa510230.js",
     "static/js/787.8d322b46.chunk.js": "/quiz/static/js/787.8d322b46.chunk.js",
     "static/media/milk.svg": "/quiz/static/media/milk.ebc743e0306569d612989bd221fd7270.svg",
@@ -23,12 +23,12 @@
     "static/media/road-line-mobile.svg": "/quiz/static/media/road-line-mobile.ef0e782eaf61941156d3919a4d24c6a0.svg",
     "static/media/road-line.svg": "/quiz/static/media/road-line.d0a6f6d17c95d7f9e5f455e23e36a766.svg",
     "index.html": "/quiz/index.html",
-    "main.77c02cf2.css.map": "/quiz/static/css/main.77c02cf2.css.map",
+    "main.e9fd87ad.css.map": "/quiz/static/css/main.e9fd87ad.css.map",
     "main.fa510230.js.map": "/quiz/static/js/main.fa510230.js.map",
     "787.8d322b46.chunk.js.map": "/quiz/static/js/787.8d322b46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c02cf2.css",
+    "static/css/main.e9fd87ad.css",
     "static/js/main.fa510230.js"
   ]
 }
