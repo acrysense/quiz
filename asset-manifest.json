@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/quiz/static/css/main.e9fd87ad.css",
-    "main.js": "/quiz/static/js/main.fa510230.js",
+    "main.css": "/quiz/static/css/main.6f4ccd95.css",
+    "main.js": "/quiz/static/js/main.16a243db.js",
     "static/js/787.8d322b46.chunk.js": "/quiz/static/js/787.8d322b46.chunk.js",
     "static/media/milk.svg": "/quiz/static/media/milk.ebc743e0306569d612989bd221fd7270.svg",
     "static/media/no-milk.svg": "/quiz/static/media/no-milk.28e688d581ae24fe49a5f4f164bd4c66.svg",
@@ -23,12 +23,12 @@
     "static/media/road-line-mobile.svg": "/quiz/static/media/road-line-mobile.ef0e782eaf61941156d3919a4d24c6a0.svg",
     "static/media/road-line.svg": "/quiz/static/media/road-line.d0a6f6d17c95d7f9e5f455e23e36a766.svg",
     "index.html": "/quiz/index.html",
-    "main.e9fd87ad.css.map": "/quiz/static/css/main.e9fd87ad.css.map",
-    "main.fa510230.js.map": "/quiz/static/js/main.fa510230.js.map",
+    "main.6f4ccd95.css.map": "/quiz/static/css/main.6f4ccd95.css.map",
+    "main.16a243db.js.map": "/quiz/static/js/main.16a243db.js.map",
     "787.8d322b46.chunk.js.map": "/quiz/static/js/787.8d322b46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9fd87ad.css",
-    "static/js/main.fa510230.js"
+    "static/css/main.6f4ccd95.css",
+    "static/js/main.16a243db.js"
   ]
 }
