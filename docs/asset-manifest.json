@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/quiz/static/css/main.6f4ccd95.css",
-    "main.js": "/quiz/static/js/main.16a243db.js",
+    "main.css": "/quiz/static/css/main.11c027e6.css",
+    "main.js": "/quiz/static/js/main.60c622bd.js",
     "static/js/787.8d322b46.chunk.js": "/quiz/static/js/787.8d322b46.chunk.js",
     "static/media/milk.svg": "/quiz/static/media/milk.ebc743e0306569d612989bd221fd7270.svg",
     "static/media/no-milk.svg": "/quiz/static/media/no-milk.28e688d581ae24fe49a5f4f164bd4c66.svg",
     "static/media/background-icons.svg": "/quiz/static/media/background-icons.8fff36fa6f32bbf73e21.svg",
+    "static/media/icon-age.svg": "/quiz/static/media/icon-age.33587e8948e27fae5b3739f88165c7bc.svg",
     "static/media/man.svg": "/quiz/static/media/man.36f8f5699d23ca27250400d398d263f7.svg",
     "static/media/meat.svg": "/quiz/static/media/meat.a0ebe4ce1ecfd71130b24169b141dd15.svg",
+    "static/media/icon-weight-loss.svg": "/quiz/static/media/icon-weight-loss.9bbe65b7690450ef915b21596716bc5f.svg",
     "static/media/page-time.svg": "/quiz/static/media/page-time.6a827655d800b099a660c7d326d6325f.svg",
     "static/media/vegan.svg": "/quiz/static/media/vegan.cea3cefe35d62a5a5062ce73337ad6ee.svg",
     "static/media/page-data.svg": "/quiz/static/media/page-data.b2bab6cc17cad2f1d95edd4d858ccd52.svg",
@@ -16,19 +18,25 @@
     "static/media/page-chicken.svg": "/quiz/static/media/page-chicken.1702e926c2e19e4c6ac4459d624da9a5.svg",
     "static/media/page-budget.svg": "/quiz/static/media/page-budget.408457f9f24a6182c81b56accbdff918.svg",
     "static/media/female.svg": "/quiz/static/media/female.fa0c6dd9dc01a7aa390e052e829f4a26.svg",
+    "static/media/icon-weight.svg": "/quiz/static/media/icon-weight.d4ffee95c8f3313138d55358506625fc.svg",
+    "static/media/icon-calories.svg": "/quiz/static/media/icon-calories.2b7e2e71ac15522516c11369affdc3ea.svg",
     "static/media/page-milk.svg": "/quiz/static/media/page-milk.3521dea0632bc49d2f760c97681f6143.svg",
+    "static/media/icon-water.svg": "/quiz/static/media/icon-water.33ae98864d6aa017301b74d997e86c43.svg",
+    "static/media/icon-bg-02.svg": "/quiz/static/media/icon-bg-02.208dd5179ce0c0679ef0238f33ec9a8a.svg",
+    "static/media/sprite.svg": "/quiz/static/media/sprite.88e409b6f59eeb1b5f4afc8258bddc20.svg",
     "static/media/page-sport.svg": "/quiz/static/media/page-sport.73061b26223f1850df34347db3327448.svg",
     "static/media/page-sex.svg": "/quiz/static/media/page-sex.519b731e2678a0ab98a10a582a3ee73b.svg",
-    "static/media/sprite.svg": "/quiz/static/media/sprite.b6e921a8340ee6dd92ae6ee155412edc.svg",
     "static/media/road-line-mobile.svg": "/quiz/static/media/road-line-mobile.ef0e782eaf61941156d3919a4d24c6a0.svg",
     "static/media/road-line.svg": "/quiz/static/media/road-line.d0a6f6d17c95d7f9e5f455e23e36a766.svg",
+    "static/media/icon-bg-01.svg": "/quiz/static/media/icon-bg-01.65b3a2c20b34c1059219c8759a43a3a2.svg",
+    "static/media/icon-imt.svg": "/quiz/static/media/icon-imt.283e46e248d90fb4109e5dec016d7c6f.svg",
     "index.html": "/quiz/index.html",
-    "main.6f4ccd95.css.map": "/quiz/static/css/main.6f4ccd95.css.map",
-    "main.16a243db.js.map": "/quiz/static/js/main.16a243db.js.map",
+    "main.11c027e6.css.map": "/quiz/static/css/main.11c027e6.css.map",
+    "main.60c622bd.js.map": "/quiz/static/js/main.60c622bd.js.map",
     "787.8d322b46.chunk.js.map": "/quiz/static/js/787.8d322b46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f4ccd95.css",
-    "static/js/main.16a243db.js"
+    "static/css/main.11c027e6.css",
+    "static/js/main.60c622bd.js"
   ]
 }
